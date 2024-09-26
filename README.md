@@ -17,3 +17,6 @@ After almsot 800 epochs later, at 1000. The Generative model has learned more so
 
 
 -- You can check the images folder for some results 
+
+Instruction:
+If ever you want to run this code. Just clone the repo. Delete the folder called images. The code will recreate the folder structures.
