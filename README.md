@@ -14,3 +14,6 @@ After 210 Epoch at batch 200. We can see that the Generative model has learned s
 After almsot 800 epochs later, at 1000. The Generative model has learned more sophisticated features. GAN are known for its difficulty of converging but our results are good enough.
 
 ![epoch_999_batch_200](https://github.com/user-attachments/assets/07b52971-8bb0-4be9-858a-0fd69fc52432)
+
+
+-- You can check the images folder for some results 
